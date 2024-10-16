@@ -1,0 +1,7 @@
+{
+  "access-token": "ACCESS_TOKEN",
+  "server": "m2.hardyinternet.com",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "from-notifications": 1
+}
